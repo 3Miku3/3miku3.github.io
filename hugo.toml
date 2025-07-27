@@ -1,0 +1,8 @@
+baseURL = 'https://3miku3.github.io/'
+languageCode = 'en-us'
+title = '3Miku3justTalk'
+theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
